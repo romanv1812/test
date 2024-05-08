@@ -14,9 +14,9 @@
     "endpoints": {
             "rpc": "https://archway-rpc-crouton.digital",
             "api": "https://archway-api-crouton.digital",
-            "grpc": "https://archway-grpc-crouton.digital",
-            "grpc-web": "https://archway-rpc-web-crouton.digital",
-            "json-rpc": "https://archway-json-rpc-crouton.digital",
+            "grpc": "http://archway-grpc-crouton.digital:9090",
+            "grpc-web": "http://archway-rpc-web-crouton.digital:9091",
+            "json-rpc": "https://archway-json-rpc-crouton.digital:9545",
             "peer": "d57bbeb22b4a98fcbdb5c440769ea46206d7ccfb@crouton.digital:27256",
             "seed": "40202122233038606100@crouton.digital:27256"
         },
