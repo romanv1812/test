@@ -22,8 +22,8 @@
         },
     "files": {
             "binaries": "https://storage.crouton.digital/binaries/archway/archwayd",
-            "genesis_url": "https://storage.crouton.digital/addrbook/archway/addrbook.json",
-            "addrbook_url": "https://storage.crouton.digital/genesis/archway/genesis.json",
+            "genesis_url": "https://storage.crouton.digital/addrbook/archway/genesis.json",
+            "addrbook_url": "https://storage.crouton.digital/genesis/archway/addrbook.json",
             "snapshot_url": "https://storage.crouton.digital/snapshots/archway/archway_4471528.tar.lz4"
         }
 }
