@@ -4,7 +4,7 @@
             "chain_id": "archway-1",
             "network_type": "mainnet",
             "denom": "archwayd",
-            "node_home": "$HOME/.archway",
+            "node_home": ".archway",
             "git_repo": "https://github.com/archway-network/archway",
             "recommended_version": "v7.0.0",
             "token": "aarch",
