@@ -1,0 +1,35 @@
+{
+    "project_info": [
+        {
+            "chain_name": "archway",
+            "chain_id": "archway-1",
+            "network_type": "mainnet",
+            "denom": "archwayd",
+            "node_home": "$HOME/.archway",
+            "git_repo": "https://github.com/archway-network/archway",
+            "recommended_version": "v7.0.0",
+            "token": "aarch",
+            "decimals": 18,
+            "fixed_min_gas_price": 140000000000
+        }
+    ],
+    "endpoints": [
+        {
+            "rpc": "https://archway-rpc-crouton.digital",
+            "api": "https://archway-api-crouton.digital",
+            "grpc": "https://archway-grpc-crouton.digital",
+            "grps-web": "https://archway-rpc-web-crouton.digital",
+            "json-rpc": "https://archway-json-rpc-crouton.digital",
+            "peer": "d57bbeb22b4a98fcbdb5c440769ea46206d7ccfb@crouton.digital:27256",
+            "seed": "40202122233038606100@crouton.digital:27256"
+        }
+    ],
+    "files": [
+        {
+            "binaries": "https://storage.crouton.digital/binaries/archway/archwayd",
+            "genesis_url": "https://storage.crouton.digital/addrbook/archway/addrbook.json",
+            "addrbook_url": "https://storage.crouton.digital/genesis/archway/genesis.json",
+            "snapshot_url": "https://storage.crouton.digital/snapshots/archway/archway_4471528.tar.lz4"
+        }
+    ]
+}
