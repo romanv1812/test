@@ -1,0 +1,27 @@
+{
+    "project_info": {
+            "chain_name": "initia",
+            "chain_id": "initiation-1",
+            "network_type": "testnet",
+            "denom": "initiad",
+            "node_home": ".initia",
+            "git_repo": "https://github.com/initia-labs/initia.git",
+            "recommended_version": "v0.2.14",
+            "token": "uinit",
+            "decimals": 6,
+            "fixed_min_gas_price": 0.15
+        },
+    "endpoints": {
+            "rpc": "https://initia-testnet-rpc.crouton.digital",
+            "api": "https://initia-testnet-api.crouton.digital",
+            "grpc": "initia-testnet-api.crouton.digital:25790",
+            "peer": "d57bbeb22b4a98fcbdb5c440769ea46206d7ccfb@peer.crouton.digital:25756",
+            "seed": "40202122233038606100@seed.crouton.digital:27256"
+        },
+    "files": {
+            "binaries": "https://storage.crouton.digital/testnet/initia/bin/initiad",
+            "genesis_url": "https://storage.crouton.digital/testnet/initia/files/genesis.json",
+            "addrbook_url": "https://storage.crouton.digital/testnet/initia/files/addrbook.json",
+            "snapshot_url": "https://storage.crouton.digital/testnet/initia/snapshots/initia_latest.tar.lz4"
+        }
+}
