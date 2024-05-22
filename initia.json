@@ -15,8 +15,7 @@
             "rpc": "https://initia-testnet-rpc.crouton.digital",
             "api": "https://initia-testnet-api.crouton.digital",
             "grpc": "initia-testnet-api.crouton.digital:25790",
-            "peer": "d57bbeb22b4a98fcbdb5c440769ea46206d7ccfb@peer.crouton.digital:25756",
-            "seed": "40202122233038606100@seed.crouton.digital:27256"
+            "peer": "7db51040f340be9e92579c06ec2878770a2cb2b4@peer.crouton.digital:25756",
         },
     "files": {
             "binaries": "https://storage.crouton.digital/testnet/initia/bin/initiad",
