@@ -1,1 +1,23 @@
-
+{
+    "project_info": {
+        "project_name": "cosmos",
+        "project_type": "testnet",
+        "chain_id": "provider",
+        "git_repo": "https://github.com/cosmos/gaia",
+        "bin": "gaiad",
+        "current_version": "v19.0.0-rc4",
+        "current_commit": "86c87dfdde4830a647bd91de2ca91de89bf73f7b",
+        "next_version": "v18.1.0",
+        "next_commit": "58b4e54a95c7fc6a64272ccd0f09f46213c005ad",
+        "node_home": ".gaia",
+        "token": "uatom",
+        "decimals": "1000000",
+        "min_gas_price": "0.0025uatom"
+    },
+    "files": {
+        "current_binaries": "https://storage.crouton.digital/testnet/cosmos/bin/gaiad",
+        "next_binaries": "https://storage.crouton.digital/testnet/cosmos/bin/upgrade/gaiad",
+        "genesis_url": "https://storage.crouton.digital/testnet/cosmos/files/genesis.json",
+        "addrbook_url": "https://storage.crouton.digital/testnet/cosmos/files/addrbook.json"
+    }
+}
