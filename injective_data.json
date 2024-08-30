@@ -1,0 +1,34 @@
+{
+    "project_info": {
+            "chain_name": "injective",
+            "chain_id": "injective-1",
+            "network_type": "mainnet",
+            "denom": "injectived",
+            "node_home": ".injectived",
+            "git_repo": "unknow",
+            "recommended_version": "v1.13.2",
+            "token": "inj",
+            "decimals": "1000000000000000000",
+            "fixed_min_gas_price": "160000000inj"
+        },
+    "endpoints": {
+            "rpc": "https://injective-mainnet-rpc.crouton.digital",
+            "api": "https://injective-mainnet-api.crouton.digital",
+            "grpc": "injective-mainnet-grpc.crouton.digital:14390",
+            "peer": "064546c2f88975ce5ba457535eb3634bb5795264@5.9.95.101:14356"
+        },
+    "files": {
+            "binaries": "https://storage.crouton.digital/mainnet/injective/bin/injectived",
+            "genesis_url": "https://storage.crouton.digital/mainnet/injective/files/genesis.json",
+            "addrbook_url": "https://storage.crouton.digital/mainnet/injective/files/addrbook.json",
+            "snapshot_url": "https://storage.crouton.digital/mainnet/injective/snapshots/injective_latest.tar.lz4"
+        },
+    "snapshot_info": {
+            "SnapshotHeight": "'${BLOCK_HEIGHT}'",
+            "SnapshotSize": "'${SNAPSHOT_FILE_SIZE}'",
+            "SnapshotBlockTime": "'${BLOCK_TIME}'",
+            "pruning": "custom: -----",
+            "indexer": "null",
+            "WasmPath": "false"
+      }
+}
